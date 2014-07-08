@@ -1,0 +1,30 @@
+[submodule "home/.janus/ag"]
+	path = home/.janus/ag
+	url = https://github.com/rking/ag.vim
+[submodule "home/.janus/ri.vim"]
+	path = home/.janus/ri.vim
+	url = https://github.com/danchoi/ri.vim.git
+[submodule "home/.janus/switch.vim"]
+	path = home/.janus/switch.vim
+	url = git://github.com/AndrewRadev/switch.vim.git
+[submodule "home/.janus/vim-airline"]
+	path = home/.janus/vim-airline
+	url = https://github.com/bling/vim-airline
+[submodule "home/.janus/vim-bundler"]
+	path = home/.janus/vim-bundler
+	url = https://github.com/tpope/vim-bundler.git
+[submodule "home/.janus/vim-tmux-navigator"]
+	path = home/.janus/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator.git
+[submodule "home/.janus/vim-ember-script"]
+	path = home/.janus/vim-ember-script
+	url = https://github.com/heartsentwined/vim-ember-script.git
+[submodule "home/.janus/vim-emblem"]
+	path = home/.janus/vim-emblem
+	url = https://github.com/heartsentwined/vim-emblem.git
+[submodule "home/.janus/vim-preview"]
+	path = home/.janus/vim-preview
+	url = https://github.com/greyblake/vim-preview.git
+[submodule "home/.janus/vim-signify"]
+	path = home/.janus/vim-signify
+	url = https://github.com/mhinz/vim-signify.git
