@@ -28,3 +28,6 @@
 [submodule "home/.janus/vim-signify"]
 	path = home/.janus/vim-signify
 	url = https://github.com/mhinz/vim-signify.git
+[submodule "home/.janus/investigate.vim"]
+	path = home/.janus/investigate.vim
+	url = https://github.com/Keithbsmiley/investigate.vim.git
